@@ -5,7 +5,7 @@ Everytime we sign up on a website we have to add a password and now days as thre
 ADVANTAGES OF THIS WEBPAGE
 <ul>
   <li>Have a Slider Using which you can control the length of your password</li>
-  <li>Everytime it is going to generate random password with all the characters checked to be included using checkboxex</li>
+  <li>Everytime it is going to generate random password with all the characters checked to be included using checkboxes</li>
   <li>Have a Strength Detector algorithm</li>
   <li>You can directly copy the password to the clipboard in a single click</li>
 </ul>
